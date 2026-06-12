@@ -1,8 +1,7 @@
-# Hi there, I'm Ayşe Nur 
-
 🎓 Information Systems Engineering Student
 
-I'm interested in Data Analytics, Artificial Intelligence, and Frontend Development.
-I am a curious and motivated learner who enjoys exploring new technologies, working on real-world projects, and continuously improving my technical skills.
+Interested in Data Analytics, Artificial Intelligence, Machine Learning, and Frontend Development.
 
- Always learning, always growing. :)
+Currently focused on improving my skills through personal projects, competitions, and continuous learning.
+
+ Always learning, always growing.  :)
